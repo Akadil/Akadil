@@ -38,5 +38,6 @@
   
 </details>
   
+<div align="left">
 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
-
+</div>
