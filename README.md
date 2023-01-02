@@ -16,6 +16,7 @@
 <details>
 <summary>Click to know about me</summary>
 
+<br> </br>
 <div align="left">
   
 - 🏫 As a 42 program, Currently I am working on creating a virtual machine  
