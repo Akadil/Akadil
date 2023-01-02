@@ -22,7 +22,7 @@
 - 💻 On my side, I am learning the python packages
 - 📚 In spare time I am reading books on creation of something meaningful
 - 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
-- 
+
 
 </div>
   
