@@ -14,7 +14,7 @@
 > ( By the way, the gif is cooler if you use the dark mode 😁 )
 
 <details>
-<summary>Click to know about me</summary>
+<summary>Click to know about my current activity</summary>
 
 <div align="left">
   
