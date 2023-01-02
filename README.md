@@ -6,6 +6,8 @@
 
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
+> This picture is better if you use dark mode :) \
+> \
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer \
 > Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences \
 > The desire to create something and to cooperate with others helped me to become a good programmer \
