@@ -20,7 +20,7 @@
   
 - 🏫 As a 42 program, I am working on creating a virtual machine  
 - 💻 On my side, I am learning the python packages
-- 📚 In spare time reading books on power of will 
+- 📚 In spare time I am reading books on creation something meaningful  
 
 </div>
   
