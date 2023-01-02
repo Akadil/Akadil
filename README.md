@@ -4,19 +4,17 @@
 
 ***Software Engineer*** 
 
-![pokesquad](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
-
-> I'm Jose Ramon, a 🇵🇦 canalero / 🇺🇸 gringo fullstack (front-end oriented) software engineer.\
-> Thinking in a logical and clear way has helped me during my academic and professional career.\
-> Being a problem-solver and someone who can be relied on is what I try to do my best.\
-> I'm also into UI/UX, design, entrepreneurship, music, mechatronics, quantum computing, and all the good stuff.
+![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer .\
-> 📚 Currently study at Ecole 42 in Paris. Finished the Bachelor on Math and Computer Science.\
-> 
+> 📚 Study at Ecole 42 in Paris. Finished the Bachelor on Math and Computer Science .\
+> 🙋‍♂️ The desire to create something, to understand the complex concepts and to help/cooperates with others helped me to become a good programmer .\
+> 💻 Mostly interested in data engineering and optimization processes, but trying a lot of new staff in the school  
+> ⚽️ Love playing football, small tennis, riding a horse, skiing and snowboarding. A lot of staff in short ;) 
+> (Currently working on developing my portfolio)
   
 <details>
-<summary>Click here to know more about me :)</summary>
+<summary>Just check my projects</summary>
 
 <div align="left">
   
