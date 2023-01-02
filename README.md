@@ -38,5 +38,5 @@
   
 </details>
   
-- 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
+📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
 
