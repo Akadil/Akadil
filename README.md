@@ -7,10 +7,10 @@
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer .\
-> 📚 Study at Ecole 42 in Paris. Finished the Bachelor on Math and Computer Science .\
-> 🙋‍♂️ The desire to create something, to understand the complex concepts and to help/cooperates with others helped me to become a good programmer .\
+> 📚 Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences .\
+> 🙋‍♂️ The desire to create something, to understand the complex concepts and to cooperate with others helped me to become a good programmer .\
 > 💻 Mostly interested in data engineering and optimization processes, but trying a lot of new staff in the school  
-> ⚽️ Love playing football, small tennis, riding a horse, skiing and snowboarding. A lot of staff in short ;) 
+> ⚽️ Love playing football, tennis, riding a horse, skiing and snowboarding. A lot of staff in short ;) 
 > (Currently working on developing my portfolio)
   
 <details>
