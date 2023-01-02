@@ -18,7 +18,7 @@
 
 <div align="left">
   
-- 🏫 As a 42 program, I am working on creating a virtual machine  
+- 🏫 As a 42 program, Currently I am working on creating a virtual machine  
 - 💻 On my side, I am learning the python packages
 - 📚 In spare time I am reading books on creation something meaningful
 - 📩 Contact me via insta: @akadilkalimoldayev or gmail: akadil.kalimoldayev@gmail.com
