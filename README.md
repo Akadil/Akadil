@@ -3,10 +3,9 @@
 ### Akadil Kalimoldayev (a.k.a. Aka) 🏂
 
 ***Software Engineer*** 👨🏼‍🏫 📝 😁 
-
-![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
-
 <small>( By the way, the gif is cooler if you use dark mode 😁 )</small>
+  
+![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
   
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer \
 > Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences \
