@@ -13,7 +13,7 @@
 > Love football, tennis, horses, skiing and snowboarding. lots in short ;) \
   
 <details>
-<summary>Click to know about me</summary>
+<summary>Click to know about me and my projects</summary>
 
 <div align="left">
   
