@@ -1,8 +1,8 @@
 <div align="center">
 
-### Akadil Kalimoldayev (a.k.a. Aka) 🐢
+### Akadil Kalimoldayev (a.k.a. Aka) 
 
-***Student at Ecole42 in Paris*** 🥞 💻 🧠
+***Student at Ecole42 in Paris*** 
 
 ![pokesquad](https://user-images.githubusercontent.com/11222980/131948254-b1b2383f-8ca6-4c0a-9ceb-a18fbcc56011.gif)
 
