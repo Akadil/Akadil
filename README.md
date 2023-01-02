@@ -4,7 +4,7 @@
 
 ***Student at Ecole42 in Paris*** 
 
-![pokesquad](https://tenor.com/view/t-challa-black-panther-wakanda-forever-gif-12066398)
+![pokesquad](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
 > I'm Jose Ramon, a 🇵🇦 canalero / 🇺🇸 gringo fullstack (front-end oriented) software engineer.\
 > Thinking in a logical and clear way has helped me during my academic and professional career.\
