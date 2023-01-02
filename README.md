@@ -11,7 +11,6 @@
 > The desire to create something and to cooperate with others helped me to become a good programmer \
 > Mostly interested in data engineering and optimization processes  \
 > Love football, tennis, horses, skiing and snowboarding. lots in short ;) \
-> Currently working on developing my portfolio
   
 <details>
 <summary>Click to know about me</summary>
