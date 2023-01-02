@@ -11,16 +11,16 @@
 > 🙋‍♂️ The desire to create something and to cooperate with others helped me to become a good programmer \
 > 💻 Mostly interested in data engineering and optimization processes  \
 > ⚽️ Love football, tennis, horses, skiing and snowboarding. lots in short ;) \
-> (Currently working on developing my portfolio)
+> Currently working on developing my portfolio
   
 <details>
-<summary>Just check my projects</summary>
+<summary>Click to know about me</summary>
 
 <div align="left">
   
-- 🔭 I’m currently working on some TypeScript projects
-- 🌱 I’m currently learning Quantum Engineering
-- 💬 Ask me about first generation pokemon glitches ;)
+- I am working on creating a virtual machine 
+- I am learning different python packages
+- In spare time reading books on power of will 
 
 </div>
   
