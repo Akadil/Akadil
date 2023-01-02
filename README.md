@@ -1,8 +1,8 @@
 <div align="center">
 
-### Akadil Kalimoldayev (a.k.a. Aka) 
+### Akadil Kalimoldayev (a.k.a. Aka) 🧠😄🏂
 
-***Software Engineer (student)*** 
+***Software Engineer 👨🏼‍🏫 *** 
 
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
