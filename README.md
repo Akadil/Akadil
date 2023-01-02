@@ -9,7 +9,7 @@
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer .\
 > 📚 Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences .\
 > 🙋‍♂️ The desire to create something and to cooperate with others helped me to become a good programmer .\
-> 💻 Mostly interested in data engineering and optimization processes, but try new technologies here .\
+> 💻 Mostly interested in data engineering and optimization processes  .\
 > ⚽️ Love football, tennis, horses, skiing and snowboarding. lots in short ;) .\
 > (Currently working on developing my portfolio)
   
