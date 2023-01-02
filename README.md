@@ -11,7 +11,7 @@
 > The desire to create something and to cooperate with others helped me to become a good programmer \
 > Mostly interested in data engineering and optimization processes  \
 > Love football, tennis, horses, skiing and snowboarding \
-> By the way, the gif is cooler if you use dark mode 😁
+> ( By the way, the gif is cooler if you use the dark mode 😁 )
 
 <details>
 <summary>Click to know about me and my projects</summary>
