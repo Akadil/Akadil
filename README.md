@@ -14,7 +14,7 @@
 > ( By the way, the gif is cooler if you use the dark mode 😁 )
 
 <details>
-<summary>Click to know about me and my projects</summary>
+<summary>Click to know about me</summary>
 
 <div align="left">
   
@@ -22,6 +22,17 @@
 - 💻 On my side, I am learning the python packages
 - 📚 In spare time I am reading books on creation of something meaningful
 - 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
+
+</div>
+  
+</details>
+  
+<details>
+<summary>Click to know about my projects</summary>
+
+<div align="left">
+  
+- 42 projects are coming soon ... 
 
 </div>
   
