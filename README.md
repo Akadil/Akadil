@@ -2,7 +2,7 @@
 
 ### Akadil Kalimoldayev (a.k.a. Aka) 🏂
 
-***Software Engineer 👨🏼‍🏫😁📝*** 
+***Software Engineer 👨🏼‍🏫 😁 📝*** 
 
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
