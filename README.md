@@ -10,7 +10,7 @@
 > Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences \
 > The desire to create something and to cooperate with others helped me to become a good programmer \
 > Mostly interested in data engineering and optimization processes  \
-> Love football, tennis, horses, skiing and snowboarding. lots and lots \
+> Love football, tennis, horses, skiing and snowboarding \
 > By the way, the gif is cooler if you use dark mode 😁
 
 <details>
