@@ -5,6 +5,7 @@
 ***Software Engineer*** 👨🏼‍🏫 📝 😁 
 
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
+
 <small>( By the way, the gif is cooler if you use dark mode 😁 )</small>
   
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer \
