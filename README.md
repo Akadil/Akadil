@@ -3,7 +3,7 @@
 ### Akadil Kalimoldayev (a.k.a. Aka) 🏂
 
 ***Software Engineer*** 👨🏼‍🏫 📝 😁 \
-<small>( By the way, the gif is cooler if you use dark mode 😁 )</small>
+> <small>( By the way, the gif is cooler if you use dark mode 😁 )</small>
   
 ![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
   
