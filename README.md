@@ -2,7 +2,7 @@
 
 ### Akadil Kalimoldayev (a.k.a. Aka) 
 
-***Student at Ecole42 in Paris*** 
+***Software Engineer*** 
 
 ![pokesquad](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
 
@@ -11,6 +11,10 @@
 > Being a problem-solver and someone who can be relied on is what I try to do my best.\
 > I'm also into UI/UX, design, entrepreneurship, music, mechatronics, quantum computing, and all the good stuff.
 
+> I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer .\
+> 📚 Currently study at Ecole 42 in Paris. Finished the Bachelor on Math and Computer Science.\
+> 
+  
 <details>
 <summary>Click here to know more about me :)</summary>
 
