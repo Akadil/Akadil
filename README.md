@@ -21,7 +21,6 @@
 - 🏫 As a 42 program, I am working on creating a virtual machine  
 - 💻 On my side, I am learning the python packages
 - 📚 In spare time I am reading books on creation of something meaningful
-- 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
 
 </div>
 
@@ -38,3 +37,6 @@
 </div>
   
 </details>
+  
+- 📩 Contact me via gmail: akadil.kalimoldayev@gmail.com or insta: @akadilkalimoldayev
+
