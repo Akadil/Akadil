@@ -33,7 +33,7 @@
 <div align="left">
   
 - 42 projects are coming soon ... 
-- 40 [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 15 medium, 23 easy
+- 40 [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
 
 </div>
   
