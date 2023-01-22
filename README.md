@@ -18,9 +18,9 @@
 
 <div align="left">
   
-- 🏫 As a 42 program, I am working on creating a virtual machine  
-- 💻 On my side, I am learning the python packages
-- 📚 In spare time I am reading books on creation of something meaningful
+- 🏫 Working on ["Push swap"](https://github.com/Akadil/42project_push_swap) project
+- 💻 Solving the [leetcode](https://github.com/Akadil/leetcode) problems - 40 problems solved
+- 🇫🇷 Learning [French language](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFlgvQFHlGbdCzSSMttJKrGhDdswsLDDnBzbqsXpLBXHDCRqrGDfjTqVcLLmKLFWbgNpg) - Very very beginner
 
 </div>
 
