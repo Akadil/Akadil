@@ -18,9 +18,9 @@
 
 <div align="left">
   
-- 🏫 Working on ["Push swap"](https://github.com/Akadil/42project_push_swap) project
-- 💻 Solving the [leetcode](https://github.com/Akadil/leetcode) problems - 40 problems solved
-- 🇫🇷 Learning [French language](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFlgvQFHlGbdCzSSMttJKrGhDdswsLDDnBzbqsXpLBXHDCRqrGDfjTqVcLLmKLFWbgNpg) - Very very beginner
+- 🏫 Working on [Push swap](https://github.com/Akadil/42project_push_swap) project
+- 💻 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems
+- 🇫🇷 Learning French language
 
 </div>
 
