@@ -18,7 +18,7 @@
 
 <div align="left">
   
-- 🏫 Working on [Push swap](https://github.com/Akadil/42project_push_swap) project
+- 🏫 Working on [Push swap](https://github.com/Akadil/42project_push_swap) and [Pipex](https://github.com/Akadil/42project_pipex) project
 - 💻 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems
 - 🇫🇷 Learning French language
 
