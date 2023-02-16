@@ -4,7 +4,7 @@
 
 ***Software Engineer*** 👨🏼‍🏫 📝 😁 
   
-![BlackPanther](https://github.com/Akadil/pictures/blob/main/t-challa-black-panther.gif)
+![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif)
   
 > I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer \
 > Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences \
