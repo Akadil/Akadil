@@ -17,7 +17,7 @@
 
 <div align="left">
   
-- 🏫 Working on [Push swap](https://github.com/Akadil/42project_push_swap) and [Pipex](https://github.com/Akadil/42project_pipex) project
+- 🏫 Working on [FdF project](https://github.com/Akadil/42project_fdf) (recreate the landscape)
 - 💻 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems
 - 🇫🇷 Learning French language (Actually not, I am being super lazy)
 
