@@ -6,8 +6,7 @@
   
 ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif)
   
-> I'm Akadil Kalimodayev, a kazakh 🇰🇿 software engineer \
-> Study at Ecole 42 in Paris. Finished the Bachelor in Math and Computer Sciences \
+> Study at Ecole42 in Paris. Bachelor: Math&Computer Sciences \
 > The desire to create something and to cooperate with others helped me to become a good programmer \
 > Mostly interested in data engineering and optimization processes  \
 > Love football, tennis, horses, skiing and snowboarding \
@@ -20,7 +19,7 @@
   
 - 🏫 Working on [Push swap](https://github.com/Akadil/42project_push_swap) and [Pipex](https://github.com/Akadil/42project_pipex) project
 - 💻 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems
-- 🇫🇷 Learning French language
+- 🇫🇷 Learning French language (Actually not, I am being super lazy)
 
 </div>
 
