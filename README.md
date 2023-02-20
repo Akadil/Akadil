@@ -10,7 +10,7 @@
 > The desire to create something and to cooperate with others helped me to become a good programmer \
 > Mostly interested in data engineering and optimization processes  \
 > Love football, tennis, horses, skiing and snowboarding \
-> ( By the way, the gif above is cooler if you use dark mode in Github 😁 )
+> ( Btw the gif is cooler in the dark mode 😁 )
 
 <details>
 <summary>Click to know about my current activity</summary>
