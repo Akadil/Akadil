@@ -23,7 +23,7 @@ One day, he was working on his fathers job and stumbled upon a very boring, long
 
 He was thrilled. He had always wanted to solve the hardest problems ever existed. And now he knew what to do. Use the power of programming to solve the "work process optimization" problems and many more 
 
-> Very short ending haha, but the story was written in the very beginning stage, so I don't have full picture or clear understanding of what I am going to do. But I have direction and I am willing to work in any related directions
+> Very short ending haha, but the story was written in the very beginning stage. So I don't have a complete picture or clear understanding of what I am going to do, but I have direction and I am willing to work in related directions
 - ---
 </details>
   
