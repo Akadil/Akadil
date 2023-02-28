@@ -17,7 +17,7 @@
 <summary> ✨ Click to read a fairy tale about solver </summary>
 
 - ---
-Once upon a time, in a far-off kingdom, there was a young man named Akadil who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
+Once upon a time, in a far-off kingdom, there was a young man who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
 
 One day, he was working on his fathers job and stumbled upon a very boring, long and repetitive task. It was a task that even a child could do, but still was important and needed responsibility. So while doing the task, he noticed that each part of the task could be done by code. You just have to solve the problem of how to do it
 
