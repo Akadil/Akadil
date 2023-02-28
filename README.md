@@ -14,7 +14,6 @@
 <div align="left">
 
 <details>
-  
 <summary> Click to read a fairy tale </summary>
 
 <p>
@@ -26,7 +25,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 
 > Very short ending haha, but the story was written in the very beginning stage, so I don't have full picture or clear understanding of what I am going to do. But I have direction and I am willing to work in any related directions
   </p>
-</detais>
+</details>
   
 <details>
 <summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
