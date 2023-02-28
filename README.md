@@ -29,7 +29,7 @@
 
 - ---
 - 🗼 Ecole 42 in Paris [Link](https://github.com/Akadil/42Projects) 
-- 🏫 Bachelor: Math(Major) & Computer(Minor) sciences 
+- 🏫 Bachelor: Math&Compute sciences
 - ---
   
 </details>
