@@ -19,7 +19,7 @@
 - ---
 Once upon a time, in a far-off kingdom, there was a young man who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
 
-One day, he was working on his fathers job and stumbled upon a very boring, long and repetitive task. It was a task that even a child could do, but still was important and needed responsibility. So while doing the task, he noticed that each part of the task could be done by code. He just had to solve the problem of how to do it
+One day, he was working on his job and stumbled upon a very boring, long and repetitive task. It was a task that even a child could do, but still was important and needed responsibility. So while doing the task, he noticed that each part of the task could be done by code. He just had to solve the problem of how to do it
 
 He was thrilled. He had always wanted to solve the hardest problems ever existed. And now he knew what to do. Use the power of programming to solve the "work process optimization" problems and many more 
 
