@@ -32,9 +32,7 @@
 - ---
   
 </details>
-
 <br></br>
-
 <details>
 <summary> 📩 Contact me via </summary>
   
