@@ -6,8 +6,7 @@
   
 ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif)
   
-> Study at Ecole42 in Paris. Bachelor: Math&Computer Sciences \
-> The desire to create something and to cooperate with others helped me to become a good programmer \
+> The desire to create and cooperate helped me to become a programmer \
 > Mostly interested in data engineering and optimization processes  \
 > Love football, tennis, horses, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
