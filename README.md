@@ -37,7 +37,7 @@
 <summary> 📩 Contact me via </summary>
   
   - ---
-  - Gmail: akadil.kalimoldayev@gmail.com [Link](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRqhbsWGDvHMlDfsSqkknLsQMCSpCQFVMzRWdtdNCzgtHzdSrkdzzjtgFkDcZqKwqBKvPBb)
+  - Gmail: akadil.kalimoldayev@gmail.com
   - Linkedin: Akadil Kalimoldayev [Link](https://www.linkedin.com/in/akadil-kalimoldayev-533b99199/)
   - Insta: @akadilkalimoldayev [Link](https://www.instagram.com/akadilkalimoldayev/)
   - ---
