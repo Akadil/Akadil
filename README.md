@@ -17,6 +17,7 @@
   
 <summary> Click to read a fairy tale </summary>
 
+<p>
 Once upon a time, in a far-off kingdom, there was a young man named Akadil who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
 
 One day, he was working on his fathers job and stumbled upon a very boring, long and repetitive task. It was a task that even a child could do, but still was important and needed responsibility. So while doing the task, he noticed that each part of the task could be done by code. You just have to solve the problem of how to do it
@@ -24,7 +25,7 @@ One day, he was working on his fathers job and stumbled upon a very boring, long
 He was thrilled. He had always wanted to solve the hardest problems ever existed. And now he knew what to do. Use the power of programming to solve the "work process optimization" problems and many more 
 
 > Very short ending haha, but the story was written in the very beginning stage, so I don't have full picture or clear understanding of what I am going to do. But I have direction and I am willing to work in any related directions
-
+  </p>
 </detais>
   
 <details>
