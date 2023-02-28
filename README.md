@@ -29,10 +29,11 @@
 
 - ---
 - 🗼 42 projects [Link](https://github.com/Akadil/42Projects) 
+- ---
   
 </details>
 
----
+<br></br>
 
 <details>
 <summary> 📩 Contact me via </summary>
