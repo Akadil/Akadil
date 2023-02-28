@@ -15,7 +15,8 @@
 <div align="left">
 <details>
 <summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
-    
+
+- ---
 - 🖌 Working on [FdF project](https://github.com/Akadil/42project_fdf) (recreate the landscape)
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
 - 🇫🇷 Learning French language (Actually not, I am being super lazy)
