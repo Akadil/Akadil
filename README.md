@@ -28,7 +28,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 </details>
   
 <details>
-<summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
+<summary> 🏠 Click to know about <b>the house</b> - my current activity </summary>
 
 - --- 
 - 🖌 Working on [FdF project](https://github.com/Akadil/42project_fdf) (recreate the landscape)
@@ -39,7 +39,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 </details>
   
 <details>
-<summary> 🏰 Click to know about <b>the kingdom</b> - all projects </summary>
+<summary> 🏰 Click to know about <b>the kingdom</b> - my projects </summary>
 
 - ---
 - 🗼 Ecole 42 in Paris [Link](https://github.com/Akadil/42Projects) 
