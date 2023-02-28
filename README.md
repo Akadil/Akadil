@@ -14,15 +14,11 @@
 
 <details>
 <summary>Click to know about my current activity</summary>
-<div align="left">
-  
+    
 - 🏫 Working on [FdF project](https://github.com/Akadil/42project_fdf) (recreate the landscape)
 - 💻 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems
 - 🇫🇷 Learning French language (Actually not, I am being super lazy)
 
-</div>
-
-  
 </details>
   
 <details>
@@ -34,7 +30,6 @@
 - 40 [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
 
 </div>
-  
 </details>
   
 <br></br>
