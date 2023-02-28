@@ -29,7 +29,6 @@
 
 - ---
 - 🗼 42 projects [Link](https://github.com/Akadil/42Projects) 
-- ---
   
 </details>
 
