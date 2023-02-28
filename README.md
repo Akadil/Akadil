@@ -49,7 +49,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 </details>
 
 <details>
-<summary> Contact me via </summary>
+<summary> Contact me </summary>
   
   - ---
   - Gmail: akadil.kalimoldayev@gmail.com
