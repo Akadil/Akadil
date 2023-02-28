@@ -28,7 +28,7 @@
 
 - ---
 - 🗼 Ecole 42 in Paris [Link](https://github.com/Akadil/42Projects) 
-- 🏫 Bachelor: Math&Compute sciences
+- 🏫 Bachelor: Math&Computer sciences
 - ---
   
 </details>
