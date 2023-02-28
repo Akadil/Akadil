@@ -12,6 +12,7 @@
 > Love football, tennis, horses, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
 
+<div align="left">
 <details>
 <summary>Click to know about my current activity</summary>
     
@@ -20,6 +21,7 @@
 - 🇫🇷 Learning French language (Actually not, I am being super lazy)
 
 </details>
+</div>
   
 <details>
 <summary>Click to know about my projects</summary>
