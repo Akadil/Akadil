@@ -14,7 +14,7 @@
 <div align="left">
 
 <details>
-<summary> ✨ Click to read a fairy tale about solver </summary>
+<summary> ✨ Click to read a fairy tale about a solver </summary>
 
 - ---
 Once upon a time, in a far-off kingdom, there was a young man who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
