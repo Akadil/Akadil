@@ -28,7 +28,8 @@
 <summary> 🏰 Click to know about <b>the kingdom</b> - all projects </summary>
 
 - ---
-- 🗼 42 projects [Link](https://github.com/Akadil/42Projects) 
+- 🗼 Ecole 42 in Paris [Link](https://github.com/Akadil/42Projects) 
+- 🏫 Bachelor: Math(Major) & Computer(Minor) sciences 
 - ---
   
 </details>
