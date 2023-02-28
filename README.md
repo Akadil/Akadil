@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary> 📩 Contact me via </summary>
+<summary> Contact me via </summary>
   
   - ---
   - Gmail: akadil.kalimoldayev@gmail.com
