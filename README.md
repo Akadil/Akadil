@@ -14,7 +14,7 @@
 <div align="left">
 
 <details>
-<summary> ✨ Click to read a fairy tale about a solver </summary>
+<summary> ✨ Click to read a fairy tale about <b>the solver</b> </summary>
 
 - ---
 Once upon a time, in a far-off kingdom, there was a young man who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
@@ -28,7 +28,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 </details>
   
 <details>
-<summary> 🏠 Click to know about `the house` - my current activity </summary>
+  <summary> 🏠 Click to know about <b>the house</b> - my current activity </summary>
 
 - --- 
 - 🖌 Working on [FdF project](https://github.com/Akadil/42project_fdf) (recreate the landscape)
