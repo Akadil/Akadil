@@ -12,6 +12,15 @@
 > ( Btw the gif is cooler in the dark mode 😁 )
 
 <div align="left">
+
+Once upon a time, in a far-off kingdom, there was a young man named Akadil who loved to solve problems. He used to ask his aunts and uncles to give him mathematical problems, so that he can spend his time solving them. 
+
+One day, he was working on his fathers job and stumbled upon a very boring, long and repetitive task. It was a work that even a child can do, but still it was important and needed responsibility. So while doing the task, he noticed that each part of the task could be done by code, you just have to solve the problem of how to do it
+
+He was thrilled. He had always wanted to solve the hardest problems ever existed. And now he knew what to do. Use the power of programming to solve the work process optimization problems and many more 
+
+> Very short ending haha, but the story was written in the very beginning stage, so I don't have full picture or clear understanding of what I am going to do. But I have direction and I am willing to work in any related directions
+
 <details>
 <summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
 
