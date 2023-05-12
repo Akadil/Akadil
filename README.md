@@ -53,8 +53,8 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
   
   - ---
   - Gmail: akadil.kalimoldayev@gmail.com
-  - Linkedin: Akadil Kalimoldayev [Link](https://www.linkedin.com/in/akadil-kalimoldayev-533b99199/)
-  - Insta: @akadilkalimoldayev [Link](https://www.instagram.com/akadilkalimoldayev/)
+  - Linkedin: [Akadil Kalimoldayev](https://www.linkedin.com/in/akadil-kalimoldayev-533b99199/)
+  - Insta: [@akadilkalimoldayev](https://www.instagram.com/akadilkalimoldayev/)
   - ---
 
 </details>
