@@ -1,6 +1,6 @@
 <div align="center">
 
-### Akadil (Aka) KALIMOLDAYEV 
+### Akadil KALIMOLDAYEV 
 
 ***Software Engineer Student*** 📝
   
@@ -33,7 +33,6 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 - --- 
 - 🖌 Working on [Minishell project](https://github.com/Akadil/42project_Minishell) (recreate the shell)
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
-- 🇫🇷 Learning French language (Actually not, I am being super lazy)
 - ---
 
 </details>
