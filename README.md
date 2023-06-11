@@ -1,6 +1,6 @@
 <div align="center">
 
-### Akadil KALIMOLDAYEV (a.k.a. Aka) 
+### Akadil (Aka) KALIMOLDAYEV 
 
 ***Software Engineer Student*** 📝
   
