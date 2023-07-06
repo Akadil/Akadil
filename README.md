@@ -31,7 +31,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
   <summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
 
 - --- 
-- 🖌 Working on [Minishell project](https://github.com/Akadil/42project_Minishell) (recreate the shell)
+- 🖌 Working on [Cub3d project](https://github.com/Akadil/42project_cub3d) (Create a first person view game)
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
 - ---
 
@@ -42,7 +42,7 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
 
 - ---
 - 🗼 Ecole 42 in Paris [Link](https://github.com/Akadil/42Projects) 
-- 🏫 Bachelor: Math&Computer sciences
+- 🏫 Bachelor: Math&Computer&Physics sciences
 - ---
   
 </details>
