@@ -31,7 +31,8 @@ He was thrilled. He had always wanted to solve the hardest problems ever existed
   <summary> 🏠 Click to know about <b>the house</b> - current activity </summary>
 
 - --- 
-- 🖌 Working on [Cub3d project](https://github.com/Akadil/42project_cub3d) (Create a first person view game)
+- 🖌 Working on [Pong game]() Recreate the first-ever website game
+- 🖌 Working on [Parser bot]() Telegram bot to parse the data about the opponents
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 2 hard, 16 medium, 23 easy
 - ---
 
