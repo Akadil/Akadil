@@ -7,9 +7,9 @@
 <!-- ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif) -->
 ![BlackPanther](t-challa-black-panther.gif)
 
-> -> The desire to create innovative solutions, solve complex problems and cooperate with comrades made me strong programmer \
-> -> Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic project comprehension, and code elegance \
-> -> Love football, horses, skiing and snowboarding \
+> The desire to create innovative solutions, solve complex problems and cooperate with comrades made me strong programmer \
+> Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic project comprehension, and code elegance \
+> Love football, horses, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
 
 <div align="left">
