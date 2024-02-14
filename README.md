@@ -103,9 +103,7 @@
   
   - ---
   - Gmail: akadil.kalimoldayev@gmail.com
-  - Linkedin: [Akadil Kalimoldayev](https://www.linkedin.com/in/akadil-kalimoldayev-533b99199/)
   - Insta: [@akadilkalimoldayev](https://www.instagram.com/akadilkalimoldayev/)
-  - Projects: [Portfolio](https://akadil.github.io/)
   - Leetcode: [Link](https://leetcode.com/Akadil/)
   - ---
 
