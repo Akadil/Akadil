@@ -53,10 +53,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="40" height="40"/>
   </a> NumPy
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/File:Selenium_Logo.png" alt="selenium" width="40" height="40"/>
+    <img src="./logos/selenium.svg" alt="selenium" width="40" height="40"/>
   </a> Selenium
   <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/618283?s=200&v=4" alt="scrapy" width="40" height="40"/>
+    <img src="https://img.stackshare.io/service/3116/LJ_Gsz28_400x400.png" alt="scrapy" width="40" height="40"/>
   </a> Scrapy
 </p>
 
