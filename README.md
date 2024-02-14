@@ -7,7 +7,7 @@
 <!-- ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif) -->
 ![BlackPanther](t-challa-black-panther.gif)
 
-> The desire to create solutions, solve problems and cooperate made me a strong programmer \
+> The desire to create solutions, solve problems and collaborate \
 > Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic, and code elegance \
 > Love football, horse riding, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
