@@ -29,8 +29,8 @@
   <summary> 🏠 Click to know about <b>Current Activity</b> </summary>
 
 - --- 
-- 🖌 Working on [Pong game](). Recreate the first-ever website game
-- 🖌 Working on [Construction Market tracker](). A website which parses states webiste, keep tracks and predicts the bid 
+- 🖌 Working on a [Pong game](). Recreate the first-ever website game
+- 🖌 Working on a [Construction Market tracker](). A website which parses states webiste, keep tracks and predicts the bid 
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 3 hard, 21 medium, 32 easy
 - ---
 
