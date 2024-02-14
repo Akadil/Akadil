@@ -7,15 +7,15 @@
 <!-- ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif) -->
 ![BlackPanther](t-challa-black-panther.gif)
 
-> The desire to create solutions, solve problems and collaborate \
-> Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic, and code elegance \
-> Love football, horse riding, skiing and snowboarding \
+> Motivation: The desire to create solutions, solve problems and collaborate \
+> Character: Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic, and code elegance \
+> Hobbies: Love football, horse riding, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
 
 <div align="left">
 
 <details>
-<summary> 🏰 Click to know about <b>All Projects</b> </summary>
+<summary> 🏰 Click to know about <b>The Kingdom</b> - all projects </summary>
 
 - ---
 - 💻 My portfolio page [Link](https://akadil.github.io/)
@@ -26,7 +26,7 @@
 </details>
   
 <details>
-  <summary> 🏠 Click to know about <b>Current Activity</b> </summary>
+<summary> 🏠 Click to know about <b>The Next Campaign</b> - Current Activity </summary>
 
 - --- 
 - 🖌 Working on a [Pong game](). Recreate the first-ever website game
@@ -36,9 +36,20 @@
 
 </details>
 
+<details>
+<summary> 🏠 Click to know about <b>The Prediction of Shaman </b> - future plans </summary>
+
+- --- 
+- Learn the full scope of software engineering
+- Manage teams to deliver solutions
+- Solve economic problems
+- ---
+
+</details>
+
 
 <details>
-<summary> Contact me </summary>
+<summary> <b>Send me a bird</b> - contact me </summary>
   
   - ---
   - Gmail: akadil.kalimoldayev@gmail.com
