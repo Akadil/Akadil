@@ -76,7 +76,7 @@
 </details>
   
 <details>
-<summary> 🏠 Click to know about <b>The Next Campaign</b> - Current Activity </summary>
+<summary> 🏠 Click to know about <b>The Next Campaign</b> - current activity </summary>
 
 - --- 
 - 🖌 Working on a [Pong game](). Recreate the first-ever website game
