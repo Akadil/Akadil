@@ -30,7 +30,7 @@
 
 - --- 
 - 🖌 Working on a [Pong game](). Recreate the first-ever website game
-- 🖌 Working on a [Construction Market tracker](). A website which parses states webiste, keep tracks and predicts the bid 
+- 🖌 Working on a [Construction Market tracker](). Parse state's website, keep tracks and predict the bid 
 - 🧠 Solving the [Leetcode](https://github.com/Akadil/leetcode) problems: 3 hard, 21 medium, 32 easy
 - ---
 
