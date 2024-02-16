@@ -7,9 +7,9 @@
 <!-- ![BlackPanther](https://github.com/Akadil/Akadil/blob/main/t-challa-black-panther.gif) -->
 ![BlackPanther](t-challa-black-panther.gif)
 
-> Motivation - The desire to create solutions, solve problems and collaborate \
-> Character - Crisp, clean coder prioritizing clarity. Emphasizes extensive testing holistic, and code elegance \
-> Hobbies - Love football, horse riding, skiing and snowboarding \
+> Create, solve and collaborate \
+> Clean coder prioritizing clarity. Emphasize extensive testing, and code elegance \
+> Love football, horse riding, skiing and snowboarding \
 > ( Btw the gif is cooler in the dark mode 😁 )
 
 ---
